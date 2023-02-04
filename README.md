@@ -1,5 +1,5 @@
 # CSGO-NoFlash
-
+### Memory file credit: cazz (yt)
 
 ## Setup
 
